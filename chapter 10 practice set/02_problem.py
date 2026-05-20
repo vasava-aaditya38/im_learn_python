@@ -1,4 +1,4 @@
-class cacultor:
+class calcultor:
     
     def __init__(self,n):
         self.n=n
@@ -12,7 +12,7 @@ class cacultor:
     def squareroot(self):
         print(f"The squareroot of 8 is: {self.n**1/2}")
 
-c=cacultor(8)
+c=calcultor(8)
 
 c.square()
 c.cube()
