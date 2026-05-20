@@ -1,0 +1,5 @@
+Parameter → variable in function
+
+Argument → value you pass
+
+Types → positional, keyword, default, *args, **kwargs

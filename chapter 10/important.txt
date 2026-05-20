@@ -1,0 +1,5 @@
+Dry principal:- Do to repete your code.
+
+_class is a blueprint.
+
+if you make a function or method self is important.

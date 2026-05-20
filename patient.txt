@@ -1,0 +1,5 @@
+patient name: aaditya
+patient age: 16
+mobile no: 9723430596
+patient health issue: feaver
+--------------------------------

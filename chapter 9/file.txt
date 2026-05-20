@@ -1,0 +1,3 @@
+my name is aaditya
+im in class 10
+im learn python
